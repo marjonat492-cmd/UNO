@@ -13,3 +13,9 @@ Open `index.html` directly in a browser. No server or extra files are required.
 - Wild and +4 cards
 - Skip, reverse, and draw-two actions
 - New game reset
+
+## Exam preparation dashboard
+
+A responsive Uzbek-language study planner with a daily schedule for chemistry, physics, and Uzbek language, completed homework results, a seven-day exam countdown, and study techniques.
+
+Open [`imtihonga-tayyorgarlik/index.html`](./imtihonga-tayyorgarlik/index.html) in a browser to use it.
